@@ -71,3 +71,4 @@ chmod +x server-stats
 ./server-stats          # Pretty output
 ./server-stats --json   # JSON output for monitoring tools
 ```
+Project URL: https://roadmap.sh/projects/server-stats
